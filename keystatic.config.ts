@@ -8,6 +8,7 @@ export default config({
       name: "astro-blog",
       owner: "SahilMahadwar",
     },
+    branchPrefix: "content/",
   },
   collections: {
     posts: collection({
